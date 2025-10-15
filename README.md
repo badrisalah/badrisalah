@@ -27,7 +27,6 @@ I'm not here to impress with words, but I can show you how much I care about lea
 
 int main() {
     std::cout << "Languages:  C, C++, Python, Bash" << std::endl;
-    // std::cout << "Frameworks: Django, Flask" << std::endl;
     std::cout << "Tools:      Linux, Git, GitHub" << std::endl;
 }
 ```
@@ -38,20 +37,6 @@ g++ skills.cpp -o skills
 Languages:  C, C++, Python, Bash
 Tools:      Linux, Git, GitHub
 ```
-
-<br>
-<br>
-
-## GitHub Stats
-<div align="center" width="100%">
-    
-| <img src="https://github-readme-stats.vercel.app/api?username=badrisalah&show_icons=true&count_private=true&hide_border=true&&theme=transparent" align="center" style="width: 100%" /> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=triangle-motelti&layout=compact&hide_border=true&theme=transparent" align="center" style="width: 100%" /> |
-|:-:|:-:|
-
-</div>
-<br>
-<br>
-<br>
 
 ## Contributions graph in the last 40 days
 <div align="center" style="width: 100%">
