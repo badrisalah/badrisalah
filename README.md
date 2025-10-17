@@ -45,7 +45,7 @@ Tools:      Linux, Git, GitHub
 
 <div align="center">
 
-![Alt text](https://tenor.com/view/kof95---kyo-kusanagi-iori-yagami-gif-14425548350539591542)
+![Alt text](https://media1.tenor.com/m/_Wni6lnwMI8AAAAd/cody-this-cody-that-codys-me-bro.gif)
 </div>
 
 
