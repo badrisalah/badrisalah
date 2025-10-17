@@ -45,7 +45,7 @@ Tools:      Linux, Git, GitHub
 
 <div align="center">
 
-![Alt text](https://www.google.com/search?q=cody+is+me+gif&sca_esv=e54914a596765dca&udm=2&biw=1330&bih=1159&sxsrf=AE3TifNUPG42WKw555hEtSLFWkGT8pASog%3A1760690111069&ei=v__xaKGABKep9u8Pu4vwiAw&ved=0ahUKEwjh24Tl6aqQAxWnlP0HHbsFHMEQ4dUDCBE&uact=5&oq=cody+is+me+gif&gs_lp=Egtnd3Mtd2l6LWltZyIOY29keSBpcyBtZSBnaWYyCBAAGAcYHhgKSJ0KULMFWPAIcAF4AJABAJgBW6ABmAOqAQE1uAEDyAEA-AEBmAIEoALuAsICBhAAGAcYHsICBhAAGAgYHpgDAIgGAZIHAzMuMaAH0ReyBwMzLjG4B-4CwgcFMi0yLjLIByM&sclient=gws-wiz-img#imgrc=YPbkRF-C1iIMEM&imgdii=IiPySkpjd-vs4M)
+![Alt text](https://tenor.com/view/kof95---kyo-kusanagi-iori-yagami-gif-14425548350539591542)
 </div>
 
 
