@@ -24,9 +24,4 @@ I'm not here to impress with words, but I can show you how much I care about lea
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=badrisalah&theme=merko&color=9A9A9A&hide_border=true&days=40&bg_color=00000000&area=true&custom_title=Contributions%20graph%20in%20the%20last%2040%20days&title_color=dbdbdb&height=600" style="width: 100%" align="center" />
 </div>
 
-<div align="center">
-
-![Alt text](https://media1.tenor.com/m/_Wni6lnwMI8AAAAd/cody-this-cody-that-codys-me-bro.gif)
-</div>
-
 
