@@ -2,7 +2,6 @@
 <div align="center">
 
 # Hi I'm Salah Eddine Badri
-I'm not here to impress with words, but I can show you how much I care about learning and building.
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white&style=for-the-badge)](mailto:badrisalah47@gmail.com)
 
@@ -15,8 +14,6 @@ I'm not here to impress with words, but I can show you how much I care about lea
 	- Shell
 	- Network & system administration
 	- Graphics
-  	- DevOps
-  	<!-- - Computer security -->
   	- Algorithms & AI
 
 ## Contributions graph in the last 40 days
